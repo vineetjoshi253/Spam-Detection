@@ -7,10 +7,13 @@ In this project I have built a small spam detector using Support Vactor Machine 
   <li><b>Preprocessing of data:</b></br> 
           Redundant words such as 'and','the','of' etc. are removed, as they will play no part in the document classification. </li>
    <li><b>Creating a dictionary of words:</b></br>
-          Our goal here is to maintain the frquencies of the words, which will later be used as a feature for SVM.</li>
+          Our goal here is to maintain the frquencies of the words, which will later be used to extract features for SVM.</li>
    <li><b>Feature extraction:</b></br>
           Feature extracion is one of the most cruicial steps in SVM. Our spam detector uses a word count vector of top 5000                         words as a feature. </li>
-   <li><b>Training of SVM</b></li>
+   <li><b>Training of SVM</b></l>
    <li><b>Testing</b></li>
-   
  </ul>
+ 
+<b>Result:</b>
+ The system gave an overall accuracy of 96.18% with a dataset having 702 messages in training set (352 SPAM & 351 Non-Spam) and 260 messages in testing set.
+
