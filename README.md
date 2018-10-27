@@ -15,7 +15,7 @@ In this project I have built a small spam detector using Support Vactor Machine 
  </ul>
  
 <b>Result:</b>
- The system gave an overall accuracy of 96.18% with a dataset having 702 messages in training set (352 SPAM & 351 Non-Spam) and 260 messages in testing set.
+ This system gave an overall accuracy of 96.18% with a dataset having 702 messages in training set (352 SPAM & 351 Non-Spam) and 260 messages in testing set.
 
 <b>Resources and Reading Materials</b>
 <ul>
